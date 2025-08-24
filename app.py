@@ -8,7 +8,7 @@ from telegram.ext import Application, CommandHandler, ContextTypes
 # ==========================
 # CONFIG
 # ==========================
-TOKEN = os.getenv("BOT_TOKEN")  # set BOT_TOKEN in Render environment
+TOKEN = os.getenv("8083828200:AAE9RY4TW2BAUJqdJF1KLXpzK_-7V8aULSY")  # set BOT_TOKEN in Render environment
 PORT = int(os.environ.get("PORT", 8080))
 
 # balances stored in memory (use DB for production)
